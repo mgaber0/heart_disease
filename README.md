@@ -18,3 +18,4 @@ Statistical analysis and hypothesis testing
 Visualizing trends and insights in Tableau
 Machine learning models 
     
+## this is still a work in progress. in it's early stages
